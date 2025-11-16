@@ -23,8 +23,8 @@ esac
 # Do stuff
 cp -r "$(dirname $0)/.poy-mod-generator/${type}" "$repo_path/"
 
-if [ -f "$(dirname $0)/.poy-mod-generator/GamePath.props" ]; then
-    cp "$(dirname $0)/.poy-mod-generator/GamePath.props" "$repo_path/"
+if [ -f "$(dirname $0)/.poy-mod-generator/Config.props" ]; then
+    cp "$(dirname $0)/.poy-mod-generator/Config.props" "$repo_path/"
 fi
 
 sed -i "s/TemplateMod/$assembly_name/g" "$repo_path/build/build.sh"
