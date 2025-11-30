@@ -69,7 +69,7 @@ namespace TemplateMod {
 #elif MELONLOADER
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(TemplateMod.Plugin), "Template Mod", PluginInfo.PLUGIN_VERSION, "Kaden5480")]
+[assembly: MelonInfo(typeof(TemplateMod.Plugin), "Template Mod", TemplateMod.PluginInfo.PLUGIN_VERSION, "Kaden5480")]
 [assembly: MelonGame("TraipseWare", "Peaks of Yore")]
 
 namespace TemplateMod {

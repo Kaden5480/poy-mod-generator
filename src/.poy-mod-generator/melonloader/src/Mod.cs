@@ -1,6 +1,6 @@
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(TemplateMod.Mod), "Template Mod", PluginInfo.PLUGIN_VERSION, "Kaden5480")]
+[assembly: MelonInfo(typeof(TemplateMod.Mod), "Template Mod", TemplateMod.PluginInfo.PLUGIN_VERSION, "Kaden5480")]
 [assembly: MelonGame("TraipseWare", "Peaks of Yore")]
 
 namespace TemplateMod {
