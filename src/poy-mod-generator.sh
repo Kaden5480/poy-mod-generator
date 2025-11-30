@@ -12,7 +12,7 @@ assembly_name="$3"
 mod_name="$4"
 
 case "$type" in
-    "combined" | "bepinex" | "melonloader")
+    "combined" | "bepinex" | "bepinex-uilib" | "melonloader")
     ;;
     *)
         printf "Unsupported type: $type\n"
