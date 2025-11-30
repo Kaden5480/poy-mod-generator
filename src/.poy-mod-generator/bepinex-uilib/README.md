@@ -1,5 +1,5 @@
 # poy-template-mod
-![UILib](https://img.shields.io/badge/Built%20with-UILib-e24a8c?style=flat&link=https%3A%2F%2Fgithub.com%2FKaden5480%2Fpoy-ui-lib%2F
+![UILib](https://img.shields.io/badge/Made%20with-UILib-e24a8c?style=flat&link=https%3A%2F%2Fgithub.com%2FKaden5480%2Fpoy-ui-lib%2F
 )
 ![Code size](https://img.shields.io/github/languages/code-size/Kaden5480/poy-template-mod?color=5c85d6)
 ![Open issues](https://img.shields.io/github/issues/Kaden5480/poy-template-mod?color=d65c5c)
@@ -7,8 +7,8 @@
 
 A
 [Peaks of Yore](https://store.steampowered.com/app/2236070/)
-mod made with
-[UILib](https://github.com/Kaden5480/poy-ui-lib/).
+mod (made with
+[UILib](https://github.com/Kaden5480/poy-ui-lib/)).
 
 # Overview
 - [Installing](#installing)
