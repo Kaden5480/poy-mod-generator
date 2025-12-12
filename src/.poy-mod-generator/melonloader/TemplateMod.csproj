@@ -27,7 +27,7 @@
   <ItemGroup>
     <PackageReference Include="LavaGang.MelonLoader" Version="0.6.6"/>
     <PackageReference Include="HarmonyX" Version="2.10.2"/>
-    <PackageReference Include="UnityEngine.Modules" Version="2019.4.36" PrivateAssets="all"/>
+    <PackageReference Include="UnityEngine.Modules" Version="2019.4.41" PrivateAssets="all"/>
   </ItemGroup>
 
   <ItemGroup Condition="'$(OS)' == 'Unix'">
