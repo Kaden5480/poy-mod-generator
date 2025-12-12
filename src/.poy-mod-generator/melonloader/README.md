@@ -15,7 +15,7 @@ mod.
     - [Build configuration](#build-configuration)
 
 # Installing
-## MelonLoader
+### MelonLoader
 If you haven't installed MelonLoader yet, follow the install instructions here:
 - [Windows](https://github.com/Kaden5480/modloader-instructions#melonloader-windows)
 - [Linux](https://github.com/Kaden5480/modloader-instructions#melonloader-linux)
