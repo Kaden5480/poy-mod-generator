@@ -3,7 +3,7 @@
     <TargetFramework>net472</TargetFramework>
     <Platform>Any CPU</Platform>
     <AssemblyName>TemplateMod</AssemblyName>
-    <Description>A Peaks of Yore mod</Description>
+    <Description>A Peaks of Yore mod.</Description>
     <Version>0.1.0</Version>
     <RootNamespace>$(AssemblyName)</RootNamespace>
     <Configurations>Debug;Release</Configurations>
