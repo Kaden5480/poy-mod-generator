@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 namespace TemplateMod {
     [BepInPlugin("com.github.Kaden5480.poy-template-mod", "Template Mod", PluginInfo.PLUGIN_VERSION)]
-    public class Plugin : BaseUnityPlugin {
+    internal class Plugin : BaseUnityPlugin {
         private static Plugin instance;
 
         /**
